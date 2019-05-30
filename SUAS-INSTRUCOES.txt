@@ -1,0 +1,9 @@
+Após clonar ou fazer download do projeto, vá para a pasta e rode o comando:
+
+pip install -r requirements.txt
+
+agora execute o comando:
+python main.py PATH_PARA_ARQUIVO_DE_LOG
+
+caso queria rodar usando o arquivo de exemplo, basta rodar:
+python main.py
