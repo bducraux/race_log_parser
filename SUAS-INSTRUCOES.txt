@@ -7,3 +7,6 @@ python main.py PATH_PARA_ARQUIVO_DE_LOG
 
 caso queria rodar usando o arquivo de exemplo, basta rodar:
 python main.py
+
+para rodar os testes:
+python -m unittest
